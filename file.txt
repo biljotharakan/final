@@ -1,5 +1,3 @@
 print("hello wolrd)
 
-"subham"
-
-"hy"
+hellooo world
