@@ -1,15 +1,4 @@
 print("hello wolrd)
 
 
-"hellloooo every one"
-
-"heyyy"
-
-"ntha mone "
-
-"eth set aavum"
-
-"subham"
-
-"hy"
 
