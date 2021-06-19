@@ -1,5 +1,6 @@
 print("hello wolrd)
 
+<<<<<<< HEAD
 "hellloooo every one"
 
 "heyyy"
@@ -7,3 +8,8 @@ print("hello wolrd)
 "ntha mone "
 
 "eth set aavum"
+=======
+"subham"
+
+"hy"
+>>>>>>> master
